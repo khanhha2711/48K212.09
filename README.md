@@ -17,9 +17,13 @@ Trong dự án này, tôi đảm nhận cương vị là **trưởng nhóm**. C�
 - **Cơ sở dữ liệu**: SQL Server
 ## Tính Năng Nổi Bật
 - **Quản lý thông tin**: quản lý danh sách các thông tin khách hàng, nhà cung cấp, hóa đơn,... người dùng có thể dễ dàng tìm kiếm khi cần thiết
-![Hình ảnh mô tả dự án](Image/MangHinhChinh.png)
+![Hình ảnh mô tả dự án](Image/hinh1.png)
 - **Tạo, thêm mới hóa đơn**: 
-![Hình ảnh mô tả dự án](Image/ThongTin.png)
+![Hình ảnh mô tả dự án](Image/hinh2.png)
+
+![Hình ảnh mô tả dự án](Image/hinh3.png)
 - **Thực hiện quản lý công nợ**: hỗ trợ quản lý, cập nhật công nợ nhanh chóng
-![Hình ảnh mô tả dự án](Image/LoTrinh.png)
+![Hình ảnh mô tả dự án](Image/hinh4.png)
+
+![Hình ảnh mô tả dự án](Image/hinh5.png)
 
